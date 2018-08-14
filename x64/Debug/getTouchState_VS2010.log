@@ -1,0 +1,13 @@
+﻿Build started 7/24/2018 4:33:43 PM.
+     1>Project "C:\Users\Handjob\Documents\Visual Studio 2013\Projects\getTouchState\getTouchState_VS2010.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenHaptics\Developer\3.4.0\include /IC:\OpenHaptics\Developer\3.4.0\utilities\include /I.\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\QueryDevice___Win32_Debug/" /Fd".\QueryDevice___Win32_Debug/vc120.pdb" /Gd /TC /errorReport:prompt getTouchState.c
+         getTouchState.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Debug\getTouchState.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenHaptics\Developer\3.4.0\lib\x64\Debug /LIBPATH:C:\OpenHaptics\Developer\3.4.0\utilities\lib\x64\Debug /LIBPATH:C:\OpenHaptics\Developer\3.4.0\lib\x64 hd.lib hdu.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\QueryDevice___Win32_Debug/QueryDevice.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Debug\getTouchState.lib" /MACHINE:X64 .\QueryDevice___Win32_Debug/getTouchState.obj
+         getTouchState_VS2010.vcxproj -> C:\Users\Handjob\Documents\Visual Studio 2013\Projects\getTouchState\x64\Debug\getTouchState.exe
+     1>Done Building Project "C:\Users\Handjob\Documents\Visual Studio 2013\Projects\getTouchState\getTouchState_VS2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00
